@@ -21,4 +21,5 @@ mysql - mariadb
 
 composer
 
+sudo service apache2 restart
 
